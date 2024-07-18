@@ -24,7 +24,9 @@ SECRET_KEY = 'django-insecure-pw4ids(m-i19x8!%2gvr!=71z+wx+hl))a=1bj8jbpvd$elhtj
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+#ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['divineconnection.co.in', 'www.divineconnection.co.in']
+
 
 
 # Application definition
